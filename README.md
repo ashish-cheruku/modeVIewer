@@ -3,9 +3,13 @@
 Create a .env file with the following content 
  
 DB_USER=ashishkumarcheruku
+
 DB_HOST=localhost
+
 DB_NAME=models_db
+
 DB_PASSWORD=
+
 DB_PORT=
 
 install all the necessary dependencies 
